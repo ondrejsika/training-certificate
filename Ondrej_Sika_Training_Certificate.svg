@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2172"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2166" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="106.08854"
+     inkscape:cy="747.90319"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2169">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect2174"
+       width="190"
+       height="278"
+       x="10"
+       y="10"
+       style="fill:#083a6f" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.29655293"
+       id="rect2421"
+       width="186"
+       height="274"
+       x="12"
+       y="12" />
+    <text
+       x="50%"
+       y="105"
+       text-anchor="middle"
+       id="text7"
+       style="font-size:0.5em">Absolvovaný kurz
+    </text>
+    <text
+       x="50%"
+       y="125"
+       text-anchor="middle"
+       id="text9"
+       style="font-size:0.85em;">Dockeru</text>
+    <text
+       x="50%"
+       y="140"
+       text-anchor="middle"
+       id="text10"
+       style="font-size:0.4em;">1.1.2018</text>
+    <text
+       x="50%"
+       y="160"
+       text-anchor="middle"
+       id="text12"
+       style="font-size:0.5em">Jméno účastníka
+    </text>
+    <text
+       x="50%"
+       y="180"
+       text-anchor="middle"
+       id="text14"
+       style="font-size:1.1em;">Ondrej Sika</text>
+    <text
+       x="50%"
+       y="200"
+       text-anchor="middle"
+       id="text16"
+       style="font-size:0.5em">
+    Číslo certifikátu
+    </text>
+    <text
+       x="50%"
+       y="210"
+       text-anchor="middle"
+       id="text18"
+       style="font-size:0.5em;font-weight:bold;">
+    #0
+    </text>
+    <rect
+       id="rect20"
+       width="70"
+       height="0.4"
+       x="70"
+       y="235"
+       style="fill:#000" />
+    <text
+       x="50%"
+       y="242"
+       text-anchor="middle"
+       id="text22"
+       style="font-size:5;font-size:bold;">
+      Ondřej Šika
+    </text>
+    <text
+       x="50%"
+       y="260"
+       text-anchor="middle"
+       id="text26"
+       style="font-size:6;font-size:bold;"><tspan
+   style="font-weight:bold;"
+   id="tspan24">Ondřej Šika</tspan>
+ / ondrej-sika.cz
+    </text>
+    <text
+       x="50%"
+       y="275"
+       text-anchor="middle"
+       id="text30"
+       style="font-size:4;">
+      Certifikát můžete validovat na: <tspan
+   style="font-weight:bold;"
+   id="tspan28">cert.ondrej-sika.com/cert/deadbeef</tspan>
+</text>
+    <g
+       id="svgg"
+       transform="matrix(0.14098264,0,0,0.13046549,76.803472,33.166667)">
+      <path
+         id="path0"
+         d="M 0,199.8 V 399.6 H 200 400 V 199.8 0 H 200 0 V 199.8 M 356.444,64.535 V 87.113 H 199.001 41.558 V 64.535 41.958 h 157.443 157.443 v 22.577 m 0,89.911 v 22.577 H 221.578 86.713 v 22.577 22.578 h 134.865 134.866 v 67.532 67.533 H 199.001 41.558 v -22.578 -22.577 h 135.069 135.068 l -0.103,-22.478 -0.103,-22.477 -134.966,-0.101 -134.965,-0.1 V 199.4 131.868 h 157.443 157.443 v 22.578"
+         inkscape:connector-curvature="0"
+         style="fill:#fcfcfc;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path1"
+         d="M 41.558,64.535 V 87.113 H 199.001 356.444 V 64.535 41.958 H 199.001 41.558 v 22.577 m 0,134.865 v 67.532 l 134.965,0.1 134.966,0.101 0.103,22.477 0.103,22.478 H 176.627 41.558 v 22.577 22.578 H 199.001 356.444 V 289.71 222.178 H 221.578 86.713 V 199.6 177.023 H 221.578 356.444 V 154.446 131.868 H 199.001 41.558 V 199.4"
+         inkscape:connector-curvature="0"
+         style="fill:#040404;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>
